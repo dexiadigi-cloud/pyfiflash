@@ -1,5 +1,17 @@
 # PyFiFlash - Python Final Flash
 
+## Features
+
+- **195 drills across 3 packs** - Python Fundamentals (57), Intermediate (71), Advanced (67), each ending in capstone final exams
+- **Mastery-based progression** - conquer each drill twice in a row; misses requeue until nailed
+- **FSRS spaced repetition** - memory-smart review scheduling
+- **Real Python in the browser** - every answer runs through Pyodide, no server, no account
+- **The Hammer** - fail a final and get targeted rework on exactly the concepts you missed
+- **Build Your Own Questions wizard** - paste up to 20 of your own test questions; it builds a full course backward from them
+- **Hint ladders** - nudges and lessons that never hand you the answer
+- **100% private** - progress saves on-device, code runs locally
+
+
 Learn Python by writing real code. A single-file web app: parameterized drills,
 mastery-based progression (nail each drill twice in a row), FSRS spaced review,
 and locked final exams with a targeted "Hammer" rework loop for anything you miss.
