@@ -84,3 +84,4 @@ The PyFiFlash name, logo, icon, and wordmark are the exclusive property of
 Jeremiah Lee and are **not** covered by the MIT License. All rights reserved -
 you may not use them without permission. (They're embedded in `index.html`;
 the license on the code doesn't grant you rights to the brand.)
+-
